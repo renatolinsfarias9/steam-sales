@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beanalytic-442411",
+  "private_key_id": "dfdba22cf1dc780be2abb9b7a242a56d392fd1e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCabj3YthvkhvKk\negCMMdprKfWJ3jm6UTCAL77EXVg1hab1tkjXWOM2O6zZMDVEs+f0Kzh49A4jnQOJ\n+0UlJLdzZJwILFXCXrLLXIGG0CGnG/70ntAWAc/5YalSDF6VUK8f36xahJWGvHQE\n98V/iJq8anmzuuCKzWwv24WCe38gpEwBBshFu7ScsC33j8GiD3D+rU7Pkv1SwCNF\nQgs3ODx12FbFBAPr9QGl9u2yT9QBRaU6+aBg/zAG/t8WrXbBxc6s3pfuhcQfEp1L\n0sVNg+UysFdauiDpkhgDL+0zZ1cduPwSg8gVMJ66/HtIo/9KDmVvEdbnsobm1L5N\n87ECB2pRAgMBAAECggEACb8h86LAvWpf944EqVR/KMrP5qjqI056/WgmBd4vUkdy\na2kbDU5cnsBi7x06C3FAVzqAGLAskUZYYhXD/i1kT6neqCxmKDuSVL/so93QdevQ\nKk+4qd7o6aAmj9lcgdeDCgOzrM3X4xZTSzn5EszEGVauAjAt+kyvQpD8Culw81Ya\nIsD/R1HC5ptjK7Cg8T952Uef1W7yBQB3MagzXrVqsooAa917uW0DIKAraHFwu9sc\nXBNTHaCe2mcGf6x0bmtnuXsgmZNTfeIi6HyUie7QLePHR2UOkE/B/FIyjyN19+0i\nTOhH2it3DEjmxZQ+WRPBPcK4WA3S0/JFHDNHhYG/0QKBgQDNAaC3qwdaMrTaBE0G\nbDK7+w0/gAANxuV+g3dRnnBVIxmNy1S7x2TvnUfM4HsQtMPKDPcxeghjB5/FYvQ/\nT1kwWU+I6QNdVgnlxmE3BaEgwqfJccgS6MtHMS6br1mlsZ95buxdoLioTuxAWsrX\n+3pfVYauyDSxRffBehDNqbC8mQKBgQDA2A7nWWvxDSREhNe2UCfeY3NtxQcAUn8r\nvEZKUij4o+N5UDcg+I776h9CNAwdOYwKHPZeMcLb+VQ+l7xd19gZoy0kDVvWuBlF\nNwcB6MxXD+77imKPpMEqR7JSKQ5KNY0YPpQ6Uli5hUWftKTQJLevS6mxoTDhG6p+\n8QtOHyY2eQKBgCe4ewVbM+98B6J+VtY5vJLDj8uP53LD6M9cdY/w3N8CD/9zOBWy\nCpKKrNC7ZdzUyWKqpHKHrHxTi9dY1u41V5iQlWJ3k1lQRFaq20cn5hJM5OmZDCTt\nygUfOGKd1QbPpZCHt3BkpaKmuAu4C7lRVmKGVbQjwmHepqRsHDlc+YtxAoGAHKU7\neYQf85uXIpJ1FIDNm0w8jjaxNowKle2Op2WS7nQxywhuV/h0DNmXMRdYIVM2CR6K\nPi24G0LrD60sbugsEorZnrxZQwjvwAdPhCoXiGs2fajtwRahFu21gFzW4ZEY11wc\nWpl20oAIepOz07NQkbp0h41BHH8mkVqu6jjYTUkCgYEAimBd5alYV9ADR8G/i1dm\nmY1JlM0QsFu51f6Kd4QET/Nq1bi2x3IuTxRX3hAA0QMa1OXNH5Yyjr6fwyl//RuR\n9QjAO3oNhMfxeYmD8KdE5S9xz1zIbvW48Oe5nwq6bThnkrr5ge81cJpGiy7dm6Sb\nN0ojBmWi1UdUgFo3BMjUIzo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "steam-sales@beanalytic-442411.iam.gserviceaccount.com",
+  "client_id": "103889094825057105072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/steam-sales%40beanalytic-442411.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
