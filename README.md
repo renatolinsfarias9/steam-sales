@@ -1,6 +1,6 @@
 # Steam Sales Data Pipeline
 
-Este repositório contém a solução para o case técnico proposto pela **beAnalytic** para a vaga de Engenheiro de Dados Júnior. A solução inclui a extração de dados de promoções do site [SteamDB Sales](https://steamdb.info/sales/), armazenamento no **Google BigQuery** e a conexão desses dados com uma planilha do **Google Sheets**, que está publicamente acessível.
+Este repositório contém a solução para o case técnico proposto para a vaga de Engenheiro de Dados Júnior. A solução inclui a extração de dados de promoções do site [SteamDB Sales](https://steamdb.info/sales/), armazenamento no **Google BigQuery** e a conexão desses dados com uma planilha do **Google Sheets**, que está publicamente acessível.
 
 ---
 
